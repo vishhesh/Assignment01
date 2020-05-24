@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 tmp.js
-config.js
+config_private.js
 
 
 # testing
